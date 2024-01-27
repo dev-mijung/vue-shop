@@ -1,4 +1,6 @@
 # vue-shop
+shopping_api 에서 데이터를 받아 vue.js로 개발 
+
 
 ## Project setup
 ```
